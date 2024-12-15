@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 const express = require('express');
 const app = express();
 
@@ -15,7 +16,8 @@ app.post('/message', (req, res) => {
 
     if (req.body.message == "/repertorioGrupoA") {
         try {
-            const data = fs.readFileSync('./text.txt', 'utf8');
+            const rutaTxt = path.join(__dirname, './text.txt');
+            const data = fs.readFileSync(rutaTxt, 'utf8');
             return res.send({
                 reply: data
             })
@@ -24,7 +26,8 @@ app.post('/message', (req, res) => {
         }
     } if (req.body.message == '/listaRandom') {
         try {
-            const file = fs.readFileSync('./songs.json', 'utf8');
+            const rutaJSON = path.join(__dirname, './songs.json');
+            const file = fs.readFileSync(rutaJSON, 'utf8');
 
 
             const data = JSON.parse(file);
