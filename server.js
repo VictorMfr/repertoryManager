@@ -5,6 +5,8 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+const port = process.env.PORT || 8000;
+
 app.get('/', (req, res) => {
     res.send('Repertory Manager');
 })
@@ -63,4 +65,6 @@ app.post('/message', (req, res) => {
     res.send();
 });
 
-app.listen(8000, () => console.log('Server Started'));
+
+
+app.listen(port, () => console.log('Server Started'));
