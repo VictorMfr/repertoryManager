@@ -15,7 +15,7 @@ app.post('/message', (req, res) => {
 
     if (req.body.message == "/repertorioGrupoA") {
         try {
-            const data = fs.readFileSync('text.txt', 'utf8');
+            const data = fs.readFileSync('./text.txt', 'utf8');
             return res.send({
                 reply: data
             })
@@ -24,7 +24,7 @@ app.post('/message', (req, res) => {
         }
     } if (req.body.message == '/listaRandom') {
         try {
-            const file = fs.readFileSync('songs.json', 'utf8');
+            const file = fs.readFileSync('./songs.json', 'utf8');
 
 
             const data = JSON.parse(file);
