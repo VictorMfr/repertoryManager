@@ -58,7 +58,7 @@ app.post('/message', (req, res) => {
                 reply: text
             })
         } catch (error) {
-            console.log(error);
+            res.send(error)
         }
     }
 
