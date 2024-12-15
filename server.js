@@ -5,6 +5,10 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+app.get('/', () => {
+    res.send('Repertory Manager');
+})
+
 app.post('/message', (req, res) => {
 
     if (req.body.message == "/repertorioGrupoA") {
