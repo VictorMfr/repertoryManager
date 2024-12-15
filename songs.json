@@ -1,0 +1,416 @@
+{
+    "canciones": {
+        "alabanzas": [
+            {
+                "name": "Los Muros Caen",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "El poderoso está del lado de nosotros",
+                "author": "Erick Porta"
+            },
+            {
+                "name": "Grande es el Señor",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "Tu amor no fallará",
+                "author": "Iglesia Rey de reyes"
+            },
+            {
+                "name": "Los muros caerán",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "Grande y fuerte",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "Hossana",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "Libre soy",
+                "author": "Barak"
+            },
+            {
+                "name": "Rey de reyes",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "Con todo el gozo",
+                "author": "Marcos Witt"
+            },
+            {
+                "name": "Hay libertad",
+                "author": "Art Aguilera"
+            },
+            {
+                "name": "Remolineando popurrí",
+                "author": "Edwin Rojas"
+            },
+            {
+                "name": "Que se llene tu casa",
+                "author": "Ingrid Rosario"
+            },
+            {
+                "name": "Glorioso",
+                "author": "Bj Putnam"
+            },
+            {
+                "name": "Bienvenido Espíritu Santo",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "Me gozaré",
+                "author": "Billy Bunster"
+            },
+            {
+                "name": "Fuego",
+                "author": "Billy Bunster"
+            },
+            {
+                "name": "Oh, moradora de Sión",
+                "author": "Marcos Witt"
+            },
+            {
+                "name": "A danzar",
+                "author": "Barak"
+            },
+            {
+                "name": "En tu luz",
+                "author": "En espíritu y en verdad"
+            },
+            {
+                "name": "Levántate Señor",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "El poderoso de Israel",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "Cantaré al Señor por siempre",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "Jehova es mi guerrero",
+                "author": "Juan Carlos Alvarado"
+            },
+            {
+                "name": "El movimiento de gloria",
+                "author": "New Wine"
+            },
+            {
+                "name": "En la casa de Dios",
+                "author": "Danilo Montero"
+            },
+            {
+                "name": "Eres fiel",
+                "author": "Coalo Zamorano"
+            },
+            {
+                "name": "Te doy gloria",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "Agradecido",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "Viento recio",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "De gloria en gloria",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "En el nombre de Jesús",
+                "author": "Ingrid Rosario"
+            },
+            {
+                "name": "Él vive",
+                "author": "Grace"
+            },
+            {
+                "name": "Te bendeciré con todo mi ser",
+                "author": "Elim Los Ángeles"
+            },
+            {
+                "name": "Yo danzo en el río",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "Tomalo",
+                "author": "Hillsong"
+            },
+            {
+                "name": "Los que esperan",
+                "author": "Danilo Montero"
+            },
+            {
+                "name": "No me soltarás",
+                "author": "Rojo"
+            },
+            {
+                "name": "Poder de tu victoria",
+                "author": "Israel and New Breed"
+            },
+            {
+                "name": "Abre mis ojos oh Cristo",
+                "author": "Danilo Montero"
+            },
+            {
+                "name": "Aunque un ejército",
+                "author": "Marcos Witt"
+            },
+            {
+                "name": "Vino celestial",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "Rey",
+                "author": "Christine D'Clario"
+            }
+        ],
+        "adoraciones": [
+            {
+                "name": "A dónde huiré",
+                "author": "Kabed"
+            },
+            {
+                "name": "Incontrolable Amor",
+                "author": "Kike Pavón"
+            },
+            {
+                "name": "Los brazos de papá",
+                "author": "Grupo Grace"
+            },
+            {
+                "name": "Refíname",
+                "author": "Amistad Música"
+            },
+            {
+                "name": "Padre nuestro",
+                "author": "Bethel Music"
+            },
+            {
+                "name": "Amamos tu presencia",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "No pararé",
+                "author": "Grupo Grace"
+            },
+            {
+                "name": "Aleluya",
+                "author": "Hallelujah"
+            },
+            {
+                "name": "Algo está pasando",
+                "author": "Oasis Ministry"
+            },
+            {
+                "name": "Gloriosa su misericordia",
+                "author": "Elim los ángeles"
+            },
+            {
+                "name": "Me rindo a él",
+                "author": "Elim los ángeles"
+            },
+            {
+                "name": "Espíritu Santo",
+                "author": "Kabed"
+            },
+            {
+                "name": "Ven Espíritu Santo",
+                "author": "Barak"
+            },
+            {
+                "name": "Inúndanos",
+                "author": "Kabed"
+            },
+            {
+                "name": "Que se abra el cielo",
+                "author": "Christine D'Clario"
+            },
+            {
+                "name": "Aquí estás (Way maker)",
+                "author": "Español"
+            },
+            {
+                "name": "No hay lugar más alto",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "Mi mayor necesidad",
+                "author": "Oasis Ministry"
+            },
+            {
+                "name": "Tu eres rey",
+                "author": "Barak"
+            },
+            {
+                "name": "Hasta ver tu gloria",
+                "author": "Barak"
+            },
+            {
+                "name": "Es tu gloria",
+                "author": "Kenneth Rojas"
+            },
+            {
+                "name": "Con poder",
+                "author": "Barak"
+            },
+            {
+                "name": "La tiera canta",
+                "author": "Barak"
+            },
+            {
+                "name": "Rey de gloria",
+                "author": "Marco Barrientos"
+            },
+            {
+                "name": "Gracia sublime es",
+                "author": "En espíritu y en verdad"
+            },
+            {
+                "name": "Glorificate",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "Solo Cristo",
+                "author": "Hillsong"
+            },
+            {
+                "name": "Cuerdas de amor",
+                "author": "Julio Melgar"
+            },
+            {
+                "name": "No hay otro nombre igual",
+                "author": "Hillsong"
+            },
+            {
+                "name": "Libre",
+                "author": "Miel San Marcos"
+            },
+            {
+                "name": "Digno y Santo",
+                "author": "Ingrid Rosario"
+            },
+            {
+                "name": "Cuán grande es Dios",
+                "author": "En espíritu y en verdad"
+            },
+            {
+                "name": "Muestra tu gloria",
+                "author": "Kim Walker"
+            },
+            {
+                "name": "Como en el cielo",
+                "author": "Elevation Worship"
+            },
+            {
+                "name": "Rey vencedor",
+                "author": "Lucia Parker"
+            },
+            {
+                "name": "Cristo sanador",
+                "author": "Emir Sensini"
+            },
+            {
+                "name": "Hermoso nombre (cuán hermoso su nombre)",
+                "author": "Hillsong"
+            },
+            {
+                "name": "El padre busca adoradores",
+                "author": "JGD Band"
+            },
+            {
+                "name": "Atrae mi corazón",
+                "author": "Marcos Brunnet"
+            },
+            {
+                "name": "Trae aquí el cielo",
+                "author": "Barak"
+            },
+            {
+                "name": "La sunamita",
+                "author": "Alex Marquez"
+            },
+            {
+                "name": "Lléname",
+                "author": "Yamilka"
+            },
+            {
+                "name": "Creo en ti",
+                "author": "Julio Melgar"
+            },
+            {
+                "name": "Yahweh se manifestará",
+                "author": "Oasis Ministry"
+            },
+            {
+                "name": "Quiero conocer a Jesús",
+                "author": "Yeshua"
+            },
+            {
+                "name": "Seguirte",
+                "author": "Christine D'Clario"
+            },
+            {
+                "name": "Desciende",
+                "author": "Christine D'Clario"
+            },
+            {
+                "name": "Yo navegaré",
+                "author": "Dahaira"
+            },
+            {
+                "name": "Tu prescencia es el cielo para mí",
+                "author": "Israel & Houghton"
+            },
+            {
+                "name": "Vine a adorarte",
+                "author": "Marcela Gándara"
+            },
+            {
+                "name": "Pablo y Silas",
+                "author": "Oasis Ministry & Barak"
+            },
+            {
+                "name": "Lo único que quiero",
+                "author": "Marcela Gándara & Marco Barrientos"
+            },
+            {
+                "name": "Tú estás aquí",
+                "author": "Jesús Adrián & Marcela Gándara"
+            },
+            {
+                "name": "Oceanos",
+                "author": "Hillsong"
+            },
+            {
+                "name": "Que tu espíritu descienda",
+                "author": "Emir Sensini"
+            },
+            {
+                "name": "Por siempre",
+                "author": "Kalley Heiligenthal"
+            },
+            {
+                "name": "Tu Fuego arde en mi",
+                "author": "Alexander"
+            },
+            {
+                "name": "El manto del Rey",
+                "author": "Averly Morillo"
+            },
+            {
+                "name": "Vuelvo a casa",
+                "author": "Generación 12"
+            }
+        ]
+    }
+}
